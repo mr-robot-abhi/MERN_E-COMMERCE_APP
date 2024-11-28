@@ -63,8 +63,8 @@ Your application will now be live at `http://localhost:5000` (default port).
 
 ---
 
-![Demo App](/frontend/public/ecom1.png)
-![Demo App](/frontend/public/ecom2.png)
+![Demo App](https://github.com/mr-robot-abhi/MERN_E-COMMERCE_APP/blob/main/frontend/public/ecom1.PNG)
+![Demo App](https://github.com/mr-robot-abhi/MERN_E-COMMERCE_APP/blob/main/frontend/public/ecom2.PNG)
 
 Thanks to you: As a programmer for the tutorial.
 [Watch the Video Tutorial on YouTube](https://youtu.be/sX57TLIPNx8)
